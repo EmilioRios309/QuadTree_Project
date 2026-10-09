@@ -1,0 +1,35 @@
+{
+  "configuracion": {
+    "tipo": "detalle",
+    "ancho": 256,
+    "alto": 256,
+    "tolerancia": 100,
+    "metodo": "directo",
+    "semilla": 42
+  },
+  "comentario": "Imagen con variaciones: tolerancia moderada, pérdida visible leve.",
+  "metricas": {
+    "ancho": 256,
+    "alto": 256,
+    "canales": 3,
+    "pixeles": 65536,
+    "metodo": "directo",
+    "tolerancia": 100,
+    "t_construccion_s": 0.12052359996596351,
+    "t_serializacion_s": 0.01121119997696951,
+    "t_reconstruccion_s": 0.012294800020754337,
+    "nodos": 5357,
+    "hojas": 4018,
+    "nodos_internos": 1339,
+    "profundidad_max": 8,
+    "pixeles_evaluados": 435584,
+    "bytes_originales": 196608,
+    "bytes_comprimidos": 12663,
+    "razon_compresion": 15.526178630656243,
+    "ahorro_pct": 93.55926513671875,
+    "bits_por_pixel": 1.5457763671875,
+    "mse": 77.34445190429688,
+    "psnr_db": 29.24651194658854,
+    "comprime": true
+  }
+}

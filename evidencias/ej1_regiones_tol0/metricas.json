@@ -1,0 +1,35 @@
+{
+  "configuracion": {
+    "tipo": "regiones",
+    "ancho": 256,
+    "alto": 256,
+    "tolerancia": 0,
+    "metodo": "directo",
+    "semilla": 42
+  },
+  "comentario": "Regiones planas, uniformidad exacta: sin pérdida y alta compresión.",
+  "metricas": {
+    "ancho": 256,
+    "alto": 256,
+    "canales": 3,
+    "pixeles": 65536,
+    "metodo": "directo",
+    "tolerancia": 0,
+    "t_construccion_s": 0.10500769998179749,
+    "t_serializacion_s": 0.00732789997709915,
+    "t_reconstruccion_s": 0.00793839996913448,
+    "nodos": 3277,
+    "hojas": 2458,
+    "nodos_internos": 819,
+    "profundidad_max": 8,
+    "pixeles_evaluados": 338800,
+    "bytes_originales": 196608,
+    "bytes_comprimidos": 7663,
+    "razon_compresion": 25.656792378963853,
+    "ahorro_pct": 96.10239664713541,
+    "bits_por_pixel": 0.9354248046875,
+    "mse": 0.0,
+    "psnr_db": "inf",
+    "comprime": true
+  }
+}

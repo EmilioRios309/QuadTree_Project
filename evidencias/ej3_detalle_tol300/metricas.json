@@ -1,0 +1,35 @@
+{
+  "configuracion": {
+    "tipo": "detalle",
+    "ancho": 256,
+    "alto": 256,
+    "tolerancia": 300,
+    "metodo": "directo",
+    "semilla": 42
+  },
+  "comentario": "Misma imagen con tolerancia alta: mayor compresión, bloques evidentes.",
+  "metricas": {
+    "ancho": 256,
+    "alto": 256,
+    "canales": 3,
+    "pixeles": 65536,
+    "metodo": "directo",
+    "tolerancia": 300,
+    "t_construccion_s": 0.016326499986462295,
+    "t_serializacion_s": 0.00018209998961538076,
+    "t_reconstruccion_s": 0.000824799994006753,
+    "nodos": 85,
+    "hojas": 64,
+    "nodos_internos": 21,
+    "profundidad_max": 3,
+    "pixeles_evaluados": 262144,
+    "bytes_originales": 196608,
+    "bytes_comprimidos": 208,
+    "razon_compresion": 945.2307692307693,
+    "ahorro_pct": 99.89420572916666,
+    "bits_por_pixel": 0.025390625,
+    "mse": 207.7879842122396,
+    "psnr_db": 24.95459930934526,
+    "comprime": true
+  }
+}

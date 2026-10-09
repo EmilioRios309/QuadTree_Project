@@ -1,0 +1,35 @@
+{
+  "configuracion": {
+    "tipo": "regiones",
+    "ancho": 203,
+    "alto": 151,
+    "tolerancia": 25,
+    "metodo": "directo",
+    "semilla": 42
+  },
+  "comentario": "Dimensiones que no son potencias de dos.",
+  "metricas": {
+    "ancho": 203,
+    "alto": 151,
+    "canales": 3,
+    "pixeles": 30653,
+    "metodo": "directo",
+    "tolerancia": 25,
+    "t_construccion_s": 0.04925929999444634,
+    "t_serializacion_s": 0.004580299952067435,
+    "t_reconstruccion_s": 0.006027899973560125,
+    "nodos": 2025,
+    "hojas": 1473,
+    "nodos_internos": 552,
+    "profundidad_max": 8,
+    "pixeles_evaluados": 155769,
+    "bytes_originales": 91959,
+    "bytes_comprimidos": 4607,
+    "razon_compresion": 19.960711960060777,
+    "ahorro_pct": 94.99015865766265,
+    "bits_por_pixel": 1.202361922160963,
+    "mse": 0.0,
+    "psnr_db": "inf",
+    "comprime": true
+  }
+}

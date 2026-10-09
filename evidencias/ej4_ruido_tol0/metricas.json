@@ -1,0 +1,35 @@
+{
+  "configuracion": {
+    "tipo": "ruido",
+    "ancho": 256,
+    "alto": 256,
+    "tolerancia": 0,
+    "metodo": "directo",
+    "semilla": 42
+  },
+  "comentario": "Peor caso: ruido sin redundancia. El Quadtree EXPANDE el tamaño.",
+  "metricas": {
+    "ancho": 256,
+    "alto": 256,
+    "canales": 3,
+    "pixeles": 65536,
+    "metodo": "directo",
+    "tolerancia": 0,
+    "t_construccion_s": 1.6182918000267819,
+    "t_serializacion_s": 0.19586229999549687,
+    "t_reconstruccion_s": 0.2559515000320971,
+    "nodos": 87381,
+    "hojas": 65536,
+    "nodos_internos": 21845,
+    "profundidad_max": 8,
+    "pixeles_evaluados": 589824,
+    "bytes_originales": 196608,
+    "bytes_comprimidos": 199344,
+    "razon_compresion": 0.9862749819407657,
+    "ahorro_pct": -1.3916015625,
+    "bits_por_pixel": 24.333984375,
+    "mse": 0.0,
+    "psnr_db": "inf",
+    "comprime": false
+  }
+}
