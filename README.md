@@ -135,7 +135,7 @@ Quadtree no comprime.
 
 ## Uso de IA generativa
 
-e utilizó Claude (Anthropic) como asistente para generar la estructura inicial del repositorio:
+Se utilizó Claude (Anthropic) como asistente para generar la estructura inicial del repositorio:
 el código del paquete `quadtree/`, las pruebas, los scripts de experimentos y evidencias, y el
 borrador de este README. El equipo escribió las instrucciones (prompts) a partir del enunciado
 del proyecto.
